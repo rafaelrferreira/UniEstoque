@@ -1,0 +1,72 @@
+/* ==========================================================================
+   3. Utilities - These things get used a lot
+   ========================================================================== */
+
+// Vertical Align
+.vertical-block {
+  text-align: center;
+}
+.vertical-block:before {
+  content: '';
+  display: inline-block;
+  height: 100%;
+  vertical-align: middle;
+  margin-right: -0.25em;
+}
+.vertical-centered {
+  display: inline-block;
+  vertical-align: middle;
+  max-width: 99.9%;
+}
+
+// Clear Fix
+.clear-fix:after {
+  content: '';
+  display: block;
+  clear: both;
+}
+.bg-cover {
+  background-size: cover; 
+}
+
+// Zebra FX
+tbody tr:nth-child(odd) {
+  background-color: #ccc;  
+}
+
+// Cursor Pointer
+.pointer {
+    cursor: pointer;  
+}
+
+// Floats
+.left {
+  float: left;
+}
+.right {
+  float: right;
+}
+
+// Childs Center
+.center {
+  text-align: center;
+}
+
+// Hidden Element
+.hidden {
+  display: none;
+}
+
+// Load <img> with Fade support
+img {
+  opacity: 0;
+  transition: opacity 1s;
+}
+
+// Google Maps Fix
+.map-fix {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  z-index: 999;
+}
