@@ -1,0 +1,12 @@
+<IfModule mod_rewrite.c>
+
+	RewriteEngine On
+
+	RewriteRule ^home/?$ index.php [NC,L]
+	RewriteRule ^404/?$ page_404.php [NC,L]
+	RewriteRule ^leitura/?$ page_leitura.php [NC,L] 
+	RewriteRule ^contato/?$ page_contato.php [NC,L] 
+
+	ErrorDocument 404 http://localhost/@base_template/404
+
+</IfModule>

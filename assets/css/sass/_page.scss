@@ -1,0 +1,21 @@
+/* ==========================================================================
+   5. Page Content - When you click on an individual page
+   ========================================================================== */
+   
+/* Animate Example */
+.fa-globe {
+  opacity: 0;
+  transition: 2s;
+}
+.fa-globe.animate-onload {
+  opacity: 1;
+  transform: rotate(360deg);
+}
+.fa-globe.animate-onscroll {
+  opacity: 0;
+  transform: rotate(-360deg);
+}
+.fa-globe.animate-onclick {
+  opacity: 0;
+  transform: rotate(-360deg);
+}

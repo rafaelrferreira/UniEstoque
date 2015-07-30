@@ -1,0 +1,57 @@
+/* ==========================================================================
+   2. General - Setting up some base styles
+   ========================================================================== */
+   
+html {}
+body {
+  background: url(../img/bg.png);
+}
+::selection {}
+h1, h2, h3,
+h4, h5, h6 {
+  text-rendering: optimizeLegibility;
+  line-height: 1;
+  margin-top: 0; }
+h1, h1 a {}
+h2, h2 a {}
+h3, h3 a {}
+h4, h4 a {}
+h5, h5 a {}
+h6, h6 a {}
+p, ul, ol {
+    margin: 0;
+    padding: 0; }
+ol ol, ul ul,
+ul ol, ol ul {
+    margin: 0.4em 0; }
+p {}
+a {}
+a:hover,
+a:focus,
+a:visited,
+a:active {
+  text-decoration: none;
+  color: inherit;
+}
+a[href], input[type='submit'], input[type='image'], label[for], select, button {
+	cursor: pointer;
+}
+
+// Custom Input
+input[type="text"], textarea {
+  display: inline-block;
+}
+input[type="submit"] {}
+
+// Custom Selection
+::selection {}
+
+// Custom Placeholder
+::-webkit-input-placeholder {}
+::-moz-placeholder {}
+:-ms-input-placeholder {}
+
+// Every Section Page Margin or Padding
+.section {
+  margin-top: 60px;
+}

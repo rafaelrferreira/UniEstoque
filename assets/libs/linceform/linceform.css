@@ -1,0 +1,129 @@
+/* Structure */
+.lince-input {
+	position: relative;
+	width: 100%;
+}
+.lince-input label {
+	display: block;
+	margin: 0;
+}
+/* Input Fields Style */
+textarea,
+input[type="text"],
+input[type="email"],
+input[type="tel"],
+input[type="password"] {
+	outline: none;
+	border: none;
+	resize: none;
+	width: 100%;
+	box-sizing: border-box;
+	padding: 10px;
+	font-size: 14px;
+	transition: 0.2s;
+}
+textarea:focus,
+input[type="text"]:focus,
+input[type="email"]:focus,
+input[type="tel"]:focus,
+input[type="password"]:focus {
+	box-shadow: 0 3px 10px rgba(0,0,0,.1),0 3px 5px rgba(0,0,0,.1);
+	border: none;
+}
+
+/* Select */
+.select {
+	cursor: pointer;
+	position: relative;
+	background: white;
+	padding: 10px;
+	width: 100%;
+	box-sizing: border-box;
+}
+.select span:after {
+	content:"";
+	display: block;
+	float: right;
+}
+.select ul {
+	transition: 0.5s;
+	position: absolute;
+	opacity: 0;
+	margin: 0;
+	padding: 0;
+	z-index: -1;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	overflow: hidden;
+	background: white;
+	box-shadow: 0 3px 10px rgba(0,0,0,.1),0 3px 5px rgba(0,0,0,.1);
+}
+.select ul li {
+	transition: 0.5s;
+	list-style: none;
+	padding: 10px;
+}
+.select ul li.checked {
+	background: #333;
+	color: white;
+}
+.select ul li:hover {
+	background: #b4b4c4;
+}
+.select.open ul {
+	opacity: 1;
+	z-index: 10;
+	height: auto;
+}
+
+/* Input File */
+.lince-input .label-file {
+	background: #b4b4c4;
+	padding: 10px;
+	cursor: pointer;
+	width: 20%;
+	box-sizing: border-box;
+	display: inline-block;
+	font-size: 14px;
+}
+input[type="text"].file-archive {
+	width: 80%;
+}
+
+/* Error Warning */
+label.error {
+	position: absolute;
+	right: 10px;
+	bottom: 0px;
+	font-size: 10px;
+	color: red;
+	padding-bottom:5px; 
+}
+
+/* Submit Button */
+input[type="submit"] {
+/*	outline: none;
+	cursor: pointer;
+	border: none;
+	background: #66cc33;
+	color: white;
+	padding: 10px;*/
+}
+
+/* Custom Placeholder */
+::-webkit-input-placeholder {
+	
+}
+:-ms-input-placeholder {
+	
+}
+::-moz-placeholder {
+	
+}
+
+/* Anti-Spam */
+.url-form {
+	display: none !important;
+}
