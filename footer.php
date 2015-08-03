@@ -2,16 +2,16 @@
 		<div class='container'>
 			
 			<div class='row'>
-				<a href="">
+				<a href="https://www.facebook.com/tsestoque" target="_blank">
 					<div class="facebook">Facebook</div>
 				</a>
-				<a href="">
+				<a href="https://twitter.com/tsestoque" target="_blank">
 					<div class="twitter">Twitter</div>
 				</a>
-				<a href="">
+				<a href="https://www.linkedin.com/company/tsestoque" target="_blank">
 					<div class="linkedin">Linkedin</div>
 				</a>
-				<a href="">
+				<a href="https://plus.google.com/u/0/117324448548133331690/posts" target="_blank">
 					<div class="google">Google+</div>
 				</a>
 			</div>
