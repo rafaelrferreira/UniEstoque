@@ -60,17 +60,17 @@
                         <div class='col-md-3 step disabled' data-step='1'>
                             <img src="assets/img/mercearia.png" alt="">
                             <h4>Mercearia do Zeca</h4>
-                            <p>Cras euismod pellentesque augue ut sodales. Sed facilisis sagittis libero.</p>
+                            <p>Aprenda com o dia a dia do zeca como administrar seu estoque da maneira correta.</p>
                         </div>
                         <div class='col-md-3 step disabled' data-step='2'>
                             <img src="assets/img/box.png" alt="">
                             <h4>Conhecendo meu estoque</h4>
-                            <p> Etiam maximus eu neque nec finibus. Nullam efficitur erat vel elit.</p>
+                            <p>O estoque é o coração do seu negócio. Entenda como ele funciona.</p>
                         </div>
                         <div class='col-md-3 step disabled' data-step='3'>
                             <img src="assets/img/casa.png" alt="">
                             <h4>Colocando a casa em ordem</h4>
-                            <p>Cras euismod pellentesque augue ut sodales. Sed facilisis sagittis libero.</p>
+                            <p>Não basta conhecer, têm que agir! Faça como o Zeca e aplique as melhores praticas de gestão ao seu estoque</p>
                         </div>
                     </div>
                     <div class='row'>
