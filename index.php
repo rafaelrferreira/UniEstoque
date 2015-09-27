@@ -27,7 +27,7 @@
                     <div class='vertical-block'>
                         <div class='vertical-centered'>
                             <img src="assets/img/logo.png" alt="Universidade Estoque" class='logo'>
-                            <h4>Donec ultricies velit ullamcorper</h4>
+                            <h4>Bem Vindo ao Universiade Estoque!</h4>
                             <h3>Aenean eros purus, egestas eu fringilla at, volutpat sit</h3>
                             <p>Nam pellentesque lacus ac ante ullamcorper gravida. Nulla justo dolor, lacinia non mollis eget, interdum eget massa.<br /> Quisque vel lacus non odio vestibulum dictum eget in leo. Quisque consequat aliquam nisi, sed aliquam sem elementum<br /> quis. Aliquam in elit urna. Sed aliquam hendrerit ligula, quis consectetur est dictum sit amet. Sed posuere felis<br /> non leo dapibus semper. Sed porta quam at diam varius luctus et vitae</p>
                         </div>
