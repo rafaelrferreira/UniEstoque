@@ -64,7 +64,7 @@
       </div>    
       <!-- fim sub passo 2 -->
 
-       <!-- inicio sub passo 3 -->
+      <!-- inicio sub passo 3 -->
       <div class="sub-step">
         <div class="modal-header">
           <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
@@ -86,6 +86,54 @@
         </div>
       </div>    
       <!-- fim sub passo 3 -->
+
+      <!-- inicio sub passo 4 -->
+      <div class="sub-step">
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+          <h3>Módulo Iniciante<img src="assets/img/basico.png" alt="Premio Iniciante"></h3>
+        </div>
+        <div class="modal-body">
+          <div class="row">
+            <div class="col-md-12">
+                <h1>Para quem é este curso?</h1>
+                <p>Pode ser estudante, estoquista, dono da empresa, almoxarife ou apenas um curioso, não importa, este curso serve para todos que querem 
+                conhecer mais sobre técnicas de gestão de itens em estoque, previsão de demanda, classificação de produtos, giro de estoque e muito mais.</p>
+            </div>
+          </div>
+        </div> 
+        <div class="modal-footer">
+          <h5>Clique em continue para ir para o próximo passo.</h5>
+          <button type="button" class="btn btn-primary btn-continue next-sub-step" >Continue</button>
+        </div>
+      </div>    
+      <!-- fim sub passo 4 -->
+
+       <!-- inicio sub passo 5 -->
+      <div class="sub-step">
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+          <h3>Módulo Iniciante<img src="assets/img/basico.png" alt="Premio Iniciante"></h3>
+        </div>
+        <div class="modal-body">
+          <div class="row">
+            <div class="col-md-12">
+                <h1>Tópicos deste módulo:</h1>
+                <ul>
+                  <li>Apresentação - Mercearia do Zeca</li>
+                  <li>Revisão e Dicas</li>
+                </ul><br>
+                <p>Tempo estimado para término deste módulo: <strong>20 minutos</strong></p><br>
+                <p>Pronto? Vamos lá!</p>
+            </div>
+          </div>
+        </div> 
+        <div class="modal-footer">
+          <h5>Clique em continue para ir para o próximo passo.</h5>
+          <button type="button" class="btn btn-primary btn-continue next-sub-step" >Continue</button>
+        </div>
+      </div>    
+      <!-- fim sub passo 5 -->
 
       <!-- inicio sub passo 4 -->
       <div class="sub-step">
