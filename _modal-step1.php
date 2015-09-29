@@ -20,13 +20,18 @@
       <div class="sub-step active">
         <div class="modal-header">
           <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
-          <h3>Merceria do Zeca<img src="assets/img/basico.png" alt="Premio Iniciante"></h3>
+          <h3>Módulo Iniciante<img src="assets/img/basico.png" alt="Premio Iniciante"></h3>
         </div>
         <div class="modal-body">
           <div class="row">
             <div class="col-md-12">
-                <h1>Bem-Vindo!</h1>
-                <p>O principal objetivo da administração de recursos materiais, com relação ao controle de estoque, é tentar alcançar o cenário em que não falte produtos para venda, porém não haja excesso de produto armazenado. O Universidade Estoque irá guiá-lo nas melhores práticas de administração para que você compreenda profundamente o estoque da sua empresa, e possa reduzir custos de armazenagem e aumentar a satisfação dos clientes.</p>
+                <h1>Receba as boas-vindas ao Universidade Estoque!</h1>
+                <p>O principal objetivo da administração de recursos materiais, com relação ao controle de estoque, 
+                é tentar alcançar o cenário em que não falte produtos para venda, porém não haja excesso de produtos estocados. 
+                Acreditamos que só a tecnologia não basta para alcançar este objetivo. Entender como a gestão de estoque pode mudar 
+                profundamente o dia a dia da sua empresa e saúde do seu negócio é essencial para extrair o máximo das tecnologias que temos disponíveis nos dias atuais. </p>
+                <p>Nesse curso você terá uma visão global de tudo que precisa para criar e desenvolver um processo fácil e sistêmico de gestão de estoque, compreendendo 
+                seus principais tópicos e utilizando estratégias para reduzir custos e aumentar seus lucros.</p>
             </div>
           </div>
         </div>
