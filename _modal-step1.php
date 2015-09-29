@@ -25,11 +25,11 @@
         <div class="modal-body">
           <div class="row">
             <div class="col-md-12">
-                <h1>Receba as boas-vindas ao Universidade Estoque!</h1>
+                <h1>Receba as boas-vindas ao <strong>Universidade Estoque</strong>!</h1>
                 <p>O principal objetivo da administração de recursos materiais, com relação ao controle de estoque, 
                 é tentar alcançar o cenário em que não falte produtos para venda, porém não haja excesso de produtos estocados. 
                 Acreditamos que só a tecnologia não basta para alcançar este objetivo. Entender como a gestão de estoque pode mudar 
-                profundamente o dia a dia da sua empresa e saúde do seu negócio é essencial para extrair o máximo das tecnologias que temos disponíveis nos dias atuais. </p>
+                profundamente o dia a dia da sua empresa e saúde do seu negócio é essencial para extrair o máximo das tecnologias que temos disponíveis nos dias atuais. </p><br>
                 <p>Nesse curso você terá uma visão global de tudo que precisa para criar e desenvolver um processo fácil e sistêmico de gestão de estoque, compreendendo 
                 seus principais tópicos e utilizando estratégias para reduzir custos e aumentar seus lucros.</p>
             </div>
