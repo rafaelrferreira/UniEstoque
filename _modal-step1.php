@@ -25,7 +25,7 @@
         <div class="modal-body">
           <div class="row">
             <div class="col-md-12">
-                <h1>Receba as boas-vindas ao <strong>Universidade Estoque</strong>!</h1>
+                <h1>Receba as boas-vindas a <strong>Universidade Estoque</strong>!</h1>
                 <p>O principal objetivo da administração de recursos materiais, com relação ao controle de estoque, 
                 é tentar alcançar o cenário em que não falte produtos para venda, porém não haja excesso de produtos estocados. 
                 Acreditamos que só a tecnologia não basta para alcançar este objetivo. Entender como a gestão de estoque pode mudar 
@@ -46,14 +46,14 @@
       <div class="sub-step">
         <div class="modal-header">
           <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
-          <h3>Merceria do Zeca<img src="assets/img/basico.png" alt="Premio Iniciante"></h3>
+          <h3>Módulo Iniciante<img src="assets/img/basico.png" alt="Premio Iniciante"></h3>
         </div>
         <div class="modal-body">
           <div class="row">
             <div class="col-md-12">
-                <h1>Gestão de Estoques</h1>
-                <p>Administradores de recursos materiais devem ter conhecimento tanto na administração de recursos, como também em sistemas de controle de informação. Utilizar um sistema computadorizado que auxilia na administração pode diminuir os custos com mão de obra e com materiais, aumentar a produção, fornecer maior segurança das informações sobre o estoque, além de melhorar a comunicação entre as diferentes áreas da empresa.</p>
-                <p>Para este fim, o tsEstoque está aqui para ajudar. No tsEstoque é possível controlar os produtos que você recebe dos fornecedores, gerenciar o estoque de forma organizada (através de relatórios personalizados) e monitorar para quais clientes os seus produtos estão indo.</p>
+                <p>Iremos guiá-lo nas melhores práticas de administração para que você compreenda profundamente o estoque da sua empresa, e possa reduzir custos de armazenagem e 
+                aumentar a satisfação dos clientes. Veremos métodos de gestão, métricas, calculo de estoque de segurança, curva ABC, ponto de reposição e muito mais. </p><br>
+                <p>Esperamos que possa aproveitar esse módulo introdutório para conhecer alguns conceitos básicos e se preparar para mudar a gestão do estoque da sua empresa ou do local onde trabalha.</p>
             </div>
           </div>
         </div> 
@@ -63,6 +63,29 @@
         </div>
       </div>    
       <!-- fim sub passo 2 -->
+
+       <!-- inicio sub passo 3 -->
+      <div class="sub-step">
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+          <h3>Módulo Iniciante<img src="assets/img/basico.png" alt="Premio Iniciante"></h3>
+        </div>
+        <div class="modal-body">
+          <div class="row">
+            <div class="col-md-12">
+                <h1>Objetivos do Curso</h1>
+                <p>O objetivo da Universidade Estoque é passar de forma simples os principais conceitos relacionados à correta gestão de estoque, auxiliando o gestor a identificar pontos 
+                falha e melhoria em sua administração que possibilitem uma redução de custos operacionais e melhor retorno de investimento.</p><br>
+                <p>Guiar e capacitar alunos e gestores com conteúdo teórico e práticos no que diz respeito a Gestão de Estoque.</p>
+            </div>
+          </div>
+        </div> 
+        <div class="modal-footer">
+          <h5>Clique em continue para ir para o próximo passo.</h5>
+          <button type="button" class="btn btn-primary btn-continue next-sub-step" >Continue</button>
+        </div>
+      </div>    
+      <!-- fim sub passo 3 -->
 
       <!-- inicio sub passo 4 -->
       <div class="sub-step">
@@ -87,7 +110,7 @@
             <input type='hidden' name='site' value='<?php echo "http://".$_SERVER["SERVER_NAME"].strtok($_SERVER ["REQUEST_URI"],"?"); ?>'>
           <div class="modal-header">
             <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
-            <h3>Merceria do Zeca<img src="assets/img/basico.png" alt="Premio Iniciante"></h3>
+            <h3>Módulo Iniciante<img src="assets/img/basico.png" alt="Premio Iniciante"></h3>
           </div>
           <div class="modal-body">
             <div class="row">
@@ -129,7 +152,7 @@
            <div class="premier">
               <img src="assets/img/medalha-1.png" alt="" class="trofeu">
               <h2>PARABÉNS!</h2>
-              <p>Você completou a primeira etada do nosso treinamento.</p>
+              <p>Você completou a primeira etapa do nosso treinamento.</p>
            </div>
         </div>
         <div class="modal-body">
