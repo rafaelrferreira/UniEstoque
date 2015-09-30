@@ -145,21 +145,40 @@
           <div class="row">
             <div class="col-md-12">
                 <h1>Mercearia do Zeca</h1>
-                <h3>Aprenda com o dia a dia do Zeca como administrar o seu estoque de maneira correta:</h3>
+                <h4>Aprenda com o dia a dia do Zeca como administrar o seu estoque de maneira correta:</h4>
                 <p>Zeca tem uma padaria a 6 anos, a Padaria DaGente.</p>
                 <p>Ele acredita que é sempre melhor sobrar do que faltar e prevenir do que remediar, portanto criou o hábito de comprar
                  insumos com antecedência e manter tudo estocado para não faltar nada.</p>
                  <p>Por estar sempre com uma "bela quantidade" de produtos no seu estoque, Zeca precisa disponibilizar um espaço razoável 
-                 da sua padaria para armazenar tudo, e embora se sinta confortável e seguro, ele admite não saber muito bem o quanto tem de cada produto.</p>
+                 da sua padaria para armazenar tudo, e embora se sinta confortável e seguro, ele admite não saber muito bem o quanto tem de cada produto.</p><br>
                  <p><strong>Atualmente Zeca gasta:</strong></p><br>
                  <ul class="list-group">
                   <li class="list-group-item">60 sacos de farinha</li>
                   <li class="list-group-item">15 caixas de Ovos</li>
                   <li class="list-group-item">20 caixa de leite</li>
                 </ul><br>
+            </div>
+          </div>
+        </div> 
+        <div class="modal-footer">
+          <h5>Clique em continue para ir para o próximo passo.</h5>
+          <button type="button" class="btn btn-primary btn-continue next-sub-step" >Continue</button>
+        </div>
+      </div>    
+      <!-- fim sub passo 6 -->
+
+      <!-- inicio sub passo 7-->
+      <div class="sub-step">
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+          <h3>Módulo Iniciante<img src="assets/img/basico.png" alt="Premio Iniciante"></h3>
+        </div>
+        <div class="modal-body">
+          <div class="row">
+            <div class="col-md-12">
                 <p>Conforme as ordens de produção dos pedidos recebidos os funcionários utilizam os materiais do estoque, 
                 sem maiores controles. Os funcionários da padaria ficam tranquilos pois sabem que nunca vai faltar matéria prima.
-                O Zeca também possui um caderninho onde ele anota todos os produtos mais vendidos. Ele também costuma comprar os produtos com fornecedores da localidades próximas a sua cidadezinha. </p>
+                O Zeca também possui um caderninho onde ele anota todos os produtos mais vendidos. Ele também costuma comprar os produtos com fornecedores da localidades próximas a sua cidadezinha. </p><br>
                 <ul class="list-group">
                   <li class="list-group-item">1 - Consegue destacar no texto acima os aspectos positivos na forma como o Zeca gerencia o estoque dele?</li>
                   <li class="list-group-item">2 - Se um dia você encontrar o Zeca, que sugetões gostaria de dar para ele gerenciar de forma mais eficaz o estoque da padaria?</li>
@@ -172,7 +191,81 @@
           <button type="button" class="btn btn-primary btn-continue next-sub-step" >Continue</button>
         </div>
       </div>    
-      <!-- fim sub passo 6 -->
+      <!-- fim sub passo 7 -->
+
+      <!-- inicio sub passo 8-->
+      <div class="sub-step">
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+          <h3>Módulo Iniciante<img src="assets/img/basico.png" alt="Premio Iniciante"></h3>
+        </div>
+        <div class="modal-body">
+          <div class="row">
+            <div class="col-md-12">
+                <h4>1 - Consegue destacar no texto acima os aspectos positivos na forma como o Zeca gerencia o estoque dele?</h4><br>
+                <p>E ai? Conseguiu perceber pontos positivos na administração do Zeca? Vamos listar alguns:</p>
+                <ul class="list-group">
+                  <li class="list-group-item">Compra de Fornecedores próximos</li>
+                  <li class="list-group-item">Anota os produtos que mais vendem</li>
+                </ul><br>
+
+                <h4>2 - Se um dia você encontrar o Zeca, que sugetões gostaria de dar para ele gerenciar de forma mais eficaz o estoque da padaria?</h4><br>
+                <ul class="list-group">
+                  <li class="list-group-item">Fazer um inventário mensal para saber o saldo de cada produto em estoque</li>
+                  <li class="list-group-item">Não comprar produtos em excesso, pois armazenar demais pode ocasionar perdas de produtos vencidos e o dinheiro parado em estoque
+                   poderia ser aplicado de outras formas</li>
+                   <li class="list-group-item">Controlar melhor o uso de matéria prima por parte dos funcionários, para poder prever com antecedência e maior 
+                   precisão quando será feito um novo pedido e quanto será pedido para os fornecedores</li>
+                </ul><br>
+            </div>
+          </div>
+        </div> 
+        <div class="modal-footer">
+          <h5>Clique em continue para ir para o próximo passo.</h5>
+          <button type="button" class="btn btn-primary btn-continue next-sub-step" >Continue</button>
+        </div>
+      </div>    
+      <!-- fim sub passo 8 -->
+
+       <!-- inicio sub passo 9-->
+      <div class="sub-step">
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+          <h3>Módulo Iniciante<img src="assets/img/basico.png" alt="Premio Iniciante"></h3>
+        </div>
+        <div class="modal-body">
+          <div class="row">
+            <div class="col-md-12">
+                <h1>Dicas e Revisão do Módulo:</h1>
+            </div>
+          </div>
+        </div> 
+        <div class="modal-footer">
+          <h5>Clique em continue para ir para o próximo passo.</h5>
+          <button type="button" class="btn btn-primary btn-continue next-sub-step" >Continue</button>
+        </div>
+      </div>    
+      <!-- fim sub passo 9 -->
+
+       <!-- inicio sub passo 10-->
+      <div class="sub-step">
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+          <h3>Módulo Iniciante<img src="assets/img/basico.png" alt="Premio Iniciante"></h3>
+        </div>
+        <div class="modal-body">
+          <div class="row">
+            <div class="col-md-12">
+                <h1>O que vamos ver no próximo módulo?</h1>
+            </div>
+          </div>
+        </div> 
+        <div class="modal-footer">
+          <h5>Clique em continue para ir para o próximo passo.</h5>
+          <button type="button" class="btn btn-primary btn-continue next-sub-step" >Continue</button>
+        </div>
+      </div>    
+      <!-- fim sub passo 10 -->
 
       <!-- inicio sub passo 4 -->
       <div class="sub-step">
