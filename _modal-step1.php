@@ -119,9 +119,9 @@
           <div class="row">
             <div class="col-md-12">
                 <h1>Tópicos deste módulo:</h1>
-                <ul>
-                  <li>Apresentação - Mercearia do Zeca</li>
-                  <li>Revisão e Dicas</li>
+                <ul class="list-group">
+                  <li class="list-group-item">Apresentação - Mercearia do Zeca</li>
+                  <li class="list-group-item">Revisão e Dicas</li>
                 </ul><br>
                 <p>Tempo estimado para término deste módulo: <strong>20 minutos</strong></p><br>
                 <p>Pronto? Vamos lá!</p>
@@ -134,6 +134,45 @@
         </div>
       </div>    
       <!-- fim sub passo 5 -->
+
+       <!-- inicio sub passo 6-->
+      <div class="sub-step">
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+          <h3>Módulo Iniciante<img src="assets/img/basico.png" alt="Premio Iniciante"></h3>
+        </div>
+        <div class="modal-body">
+          <div class="row">
+            <div class="col-md-12">
+                <h1>Mercearia do Zeca</h1>
+                <h3>Aprenda com o dia a dia do Zeca como administrar o seu estoque de maneira correta:</h3>
+                <p>Zeca tem uma padaria a 6 anos, a Padaria DaGente.</p>
+                <p>Ele acredita que é sempre melhor sobrar do que faltar e prevenir do que remediar, portanto criou o hábito de comprar
+                 insumos com antecedência e manter tudo estocado para não faltar nada.</p>
+                 <p>Por estar sempre com uma "bela quantidade" de produtos no seu estoque, Zeca precisa disponibilizar um espaço razoável 
+                 da sua padaria para armazenar tudo, e embora se sinta confortável e seguro, ele admite não saber muito bem o quanto tem de cada produto.</p>
+                 <p><strong>Atualmente Zeca gasta:</strong></p><br>
+                 <ul class="list-group">
+                  <li class="list-group-item">60 sacos de farinha</li>
+                  <li class="list-group-item">15 caixas de Ovos</li>
+                  <li class="list-group-item">20 caixa de leite</li>
+                </ul><br>
+                <p>Conforme as ordens de produção dos pedidos recebidos os funcionários utilizam os materiais do estoque, 
+                sem maiores controles. Os funcionários da padaria ficam tranquilos pois sabem que nunca vai faltar matéria prima.
+                O Zeca também possui um caderninho onde ele anota todos os produtos mais vendidos. Ele também costuma comprar os produtos com fornecedores da localidades próximas a sua cidadezinha. </p>
+                <ul class="list-group">
+                  <li class="list-group-item">1 - Consegue destacar no texto acima os aspectos positivos na forma como o Zeca gerencia o estoque dele?</li>
+                  <li class="list-group-item">2 - Se um dia você encontrar o Zeca, que sugetões gostaria de dar para ele gerenciar de forma mais eficaz o estoque da padaria?</li>
+                </ul><br>
+            </div>
+          </div>
+        </div> 
+        <div class="modal-footer">
+          <h5>Clique em continue para ir para o próximo passo.</h5>
+          <button type="button" class="btn btn-primary btn-continue next-sub-step" >Continue</button>
+        </div>
+      </div>    
+      <!-- fim sub passo 6 -->
 
       <!-- inicio sub passo 4 -->
       <div class="sub-step">
