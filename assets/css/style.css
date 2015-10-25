@@ -60,6 +60,7 @@ h4, h5, h6 {
 p, ul, ol {
   margin: 0;
   padding: 0;
+  font-size: 16px;
 }
 
 ol ol, ul ul,
