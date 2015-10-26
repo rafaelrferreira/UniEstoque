@@ -52,7 +52,7 @@
           <div class="row">
             <div class="col-md-12">
                 <p>Iremos guiá-lo nas melhores práticas de administração para que você compreenda profundamente o estoque da sua empresa, e possa reduzir custos de armazenagem e 
-                aumentar a satisfação dos clientes. Veremos métodos de gestão, métricas, calculo de estoque de segurança, curva ABC, ponto de reposição e muito mais. </p><br>
+                aumentar a satisfação dos clientes. Veremos métodos de gestão, métricas, cálculo de estoque de segurança, curva ABC, ponto de reposição e muito mais. </p><br>
                 <p>Esperamos que possa aproveitar esse módulo introdutório para conhecer alguns conceitos básicos e se preparar para mudar a gestão do estoque da sua empresa ou do local onde trabalha.</p>
             </div>
           </div>
@@ -75,8 +75,8 @@
             <div class="col-md-12">
                 <h1>Objetivos do Curso</h1>
                 <p>O objetivo da Universidade Estoque é passar de forma simples os principais conceitos relacionados à correta gestão de estoque, auxiliando o gestor a identificar pontos 
-                falha e melhoria em sua administração que possibilitem uma redução de custos operacionais e melhor retorno de investimento.</p><br>
-                <p>Guiar e capacitar alunos e gestores com conteúdo teórico e práticos no que diz respeito a Gestão de Estoque.</p>
+                de falha e melhoria em sua administração que possibilitem uma redução de custos operacionais e melhor retorno de investimento.</p><br>
+                <p>Nosso intuito é guiar e capacitar alunos e gestores com conteúdo teórico e prático no que diz respeito a Gestão de Estoque.</p>
             </div>
           </div>
         </div> 
@@ -146,9 +146,9 @@
             <div class="col-md-12">
                 <h1>Mercearia do Zeca</h1>
                 <h4>Aprenda com o dia a dia do Zeca como administrar o seu estoque de maneira correta:</h4>
-                <p>Zeca tem uma padaria a 6 anos, a Padaria DaGente.</p>
+                <p>Zeca tem uma padaria a 6 anos, a Padaria DaGente.</p><br>
                 <p>Ele acredita que é sempre melhor sobrar do que faltar e prevenir do que remediar, portanto criou o hábito de comprar
-                 insumos com antecedência e manter tudo estocado para não faltar nada.</p>
+                 insumos com antecedência e manter tudo estocado para não faltar nada.</p><br>
                  <p>Por estar sempre com uma "bela quantidade" de produtos no seu estoque, Zeca precisa disponibilizar um espaço razoável 
                  da sua padaria para armazenar tudo, e embora se sinta confortável e seguro, ele admite não saber muito bem o quanto tem de cada produto.</p><br>
                  <p><strong>Atualmente Zeca gasta:</strong></p><br>
@@ -177,8 +177,8 @@
           <div class="row">
             <div class="col-md-12">
                 <p>Conforme as ordens de produção dos pedidos recebidos os funcionários utilizam os materiais do estoque, 
-                sem maiores controles. Os funcionários da padaria ficam tranquilos pois sabem que nunca vai faltar matéria prima.
-                O Zeca também possui um caderninho onde ele anota todos os produtos mais vendidos. Ele também costuma comprar os produtos com fornecedores da localidades próximas a sua cidadezinha. </p><br>
+                sem maiores controles. Os funcionários da padaria ficam tranquilos pois sabem que nunca vai faltar matéria prima.</p><br>
+                <p>O Zeca também possui um caderninho onde ele anota todos os produtos mais vendidos. Ele também costuma comprar os produtos com fornecedores da localidades próximas a sua cidadezinha. </p><br>
                 <ul class="list-group">
                   <li class="list-group-item">1 - Consegue destacar no texto acima os aspectos positivos na forma como o Zeca gerencia o estoque dele?</li>
                   <li class="list-group-item">2 - Se um dia você encontrar o Zeca, que sugetões gostaria de dar para ele gerenciar de forma mais eficaz o estoque da padaria?</li>
