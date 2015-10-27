@@ -240,10 +240,10 @@
                 <h1>Dicas e Revisão do Módulo:</h1><br>
                  <ul class="list-group">
                   <li class="list-group-item">Nesse módulo ficamos conhecendo a padaria do Zeca</li>
-                  <li class="list-group-item">Vimos que Zeca prefere se sente confortável e seguro armazenando muitos produtos para não faltar nada, mas não sabe muito bem quanto têm em estoque de cada produto</li>
+                  <li class="list-group-item">Vimos que Zeca prefere se sentir confortável e seguro armazenando muitos produtos para não faltar nada, mas não sabe muito bem quanto têm em estoque de cada produto</li>
                   <li class="list-group-item">Zeca possui um caderninho onde anota todos os produtos mais vendidos e costuma comprar os produtos com fornecedores da localidades próximas a sua cidadezinha</li>
                   <li class="list-group-item">Devemos lembrar que comprar produtos de fornecedores próximos permite maiores garantias de entrega, custos menores com transporte e maior qualidade de serviço já que a chance de ter um cliente insatisfeito com a falta de algum produto será menor</li>
-                  <li class="list-group-item">Verificar 1 ou 2 vezes no mês o saldo em estoque, pelo menos dos produtos mais vendidos é uma pratica que ajuda a manter o estoque mais enxuto, prever falta de itens e manter livre mais capital de giro</li>
+                  <li class="list-group-item">Verificar 1 ou 2 vezes no mês o saldo em estoque, pelo menos dos produtos mais vendidos, é uma pratica que ajuda a manter o estoque mais enxuto, prever falta de itens e manter livre mais capital de giro</li>
                   <li class="list-group-item">Treinar funcionários a utilizarem da melhor forma possível os insumos disponíveis para ter uma noção mais precisa do tempo de esgotamento de cada item e assim enviar ordens de compra para os fornecedores no momento certo</li>
                 </ul><br>
             </div>
