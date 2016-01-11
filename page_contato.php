@@ -5,7 +5,7 @@
     // Cofiguração da Página
     $page = new stdClass();
     $page->title = 'Contato';
-    $page->desc = 'Descrição';
+    $page->desc = 'Entre em contato conosco.';
 
     // Adiciona o nome do site ao Título
     $page->title = $page->title.' | '.$site->name;
