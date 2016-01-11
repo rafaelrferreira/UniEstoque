@@ -4,7 +4,6 @@ Script
 	- Editar os valores $page->title e $page->desc antes de criar as páginas internas.
 	- Para chamar o campo é só usar o comando <?php echo $site->name; ?> .
 	- Conforme for criando Páginas, edite o .htacess para deixar o link correto.
-	- Depois que finalizar o recorte, lembre de colocar o Google Analytics.
 	- Delete todos script não ultilizados, demos, caches e este arquivo. 
 
 	- Fim :3

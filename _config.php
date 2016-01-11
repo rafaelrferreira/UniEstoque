@@ -3,9 +3,9 @@
     // Váriaveis Globais
     $site = new stdClass();
     $site->name = 'Universidade Estoque';
-    $site->url = 'http://localhost';
-    $site->email = 'rafaelrferreira@gmail.com';
-    $site->tel = '(79) 9988-2931';
+    $site->url = 'http://www.universidadeestoque.com.br';
+    $site->email = 'contato@techshift.com.br';
+    $site->tel = '(79) 99988-2931';
 
  ?>
  

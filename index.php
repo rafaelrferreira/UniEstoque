@@ -5,7 +5,7 @@
     // Cofiguração da Página
     $page = new stdClass();
     $page->title = 'Home';
-    $page->desc = 'Descrição';
+    $page->desc = 'Aprendizado Online sobre Gestão de Estoque';
 
     // Adiciona o nome do site ao Título
     $page->title = $page->title.' | '.$site->name;
@@ -28,8 +28,12 @@
                         <div class='vertical-centered'>
                             <img src="assets/img/logo.png" alt="Universidade Estoque" class='logo'>
                             <h4>Bem Vindo ao Universidade Estoque!</h4>
-                            <h3>Aenean eros purus, egestas eu fringilla at, volutpat sit</h3>
-                            <p>Nam pellentesque lacus ac ante ullamcorper gravida. Nulla justo dolor, lacinia non mollis eget, interdum eget massa.<br /> Quisque vel lacus non odio vestibulum dictum eget in leo. Quisque consequat aliquam nisi, sed aliquam sem elementum<br /> quis. Aliquam in elit urna. Sed aliquam hendrerit ligula, quis consectetur est dictum sit amet. Sed posuere felis<br /> non leo dapibus semper. Sed porta quam at diam varius luctus et vitae</p>
+                            <h3>Aprenda tudo sobre Gestão de Estoque, online e sem complicações!</h3>
+                            <p>Nossa missão é de transformação organizacional no que diz respeito a todo contexto de gestão de materiais e boa<br /> 
+                            intepretação das informações de decisão que se pode alcançar com um controle efetivo do estoque de uma empresa. <br />
+                            O curso online de Gestão de Estoques do Universidade Estoque permitirá que você aprenda os principais conceitos e <br /> 
+                            aprofunde seus conhecimentos em controle de estoque, pela abordagem de temas como Curva ABC, Métricas, Gráfico <br /> 
+                            Dente de Serra e Sistemas de Informação na Logística, dentre outros assuntos relevantes.</p>
                         </div>
                     </div>
                 </div>
