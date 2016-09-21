@@ -150,7 +150,6 @@
                         <div class='vertical-centered'>
                             <h4>Ou entre em contato para mais informações</h4>
                             <hr>
-                            <p>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet<br /> consectetur, adipisci velit, sed quia non numquam</p>
                             <form action='formail.php'
                               method='post'
                               enctype='multipart/form-data'
